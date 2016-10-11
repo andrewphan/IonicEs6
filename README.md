@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ionic-starter-es6-with-modules
 
 Ionic tabs starter project using babel as an es6 transpiler with sourcemaps.
@@ -15,3 +16,6 @@ I've had issues reloading the www/js/all.js file via livereload after babel has 
 so this may be a livereload caching issue.
 
 Any suggestions welcome.
+=======
+# IonicEs6
+>>>>>>> origin/master
